@@ -1,0 +1,15 @@
+{
+    "name": "prestoworld/marketplace-sdk",
+    "autoload": {
+        "psr-4": {
+            "Prestoworld\\MarketplaceSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {}
+}
